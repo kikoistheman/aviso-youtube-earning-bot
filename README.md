@@ -35,7 +35,6 @@ This repository contains a Selenium-based bot to automate tasks on the Aviso You
 3. Download and install [Google Chrome](https://www.google.com/chrome/).
 
 4. Download the matching version of [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) and add it to your system PATH.
-5. change the username and password field in code
 
 ## Usage
 
